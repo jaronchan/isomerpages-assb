@@ -42,7 +42,7 @@ breadcrumbs:
     image: false # Show image or title text
 
 collections:
-  application-guidelines:
+  standards:
     output: true
 
 # Resource Room and Pagination
