@@ -15,9 +15,9 @@ To bring wider representation and experience into the standards setting process,
 
 The objective of the Advisory Committee is to advise the Accountant-General in prescribing high quality accounting standards for use by Statutory Boards in Singapore in the preparation of their financial statements, taking into account:
 
- 	(a)	 	The unique characteristics of Statutory Boards, which are constituted under Acts of Parliament and are therefore statutorily accountable to Parliament;
- 	(b)	 	Facilitation of comparability, disclosure and transparency; and
- 	(c)	 	Comparability with relevant international standards.
+* The unique characteristics of Statutory Boards, which are constituted under Acts of Parliament and are therefore statutorily accountable to Parliament;
+* Facilitation of comparability, disclosure and transparency; and
+* Comparability with relevant international standards.
 
 
 ### **History**
