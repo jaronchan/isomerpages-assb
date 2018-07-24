@@ -20,7 +20,7 @@ This collection of SB-FRSs and INT SB-FRSs includes official pronouncements issu
   </tr>
   <tr>
     <td>Preface</td>
-    <td>Preface to Statutory Board Financial Reporting Standards</td>
+    <td>[Preface to Statutory Board Financial Reporting Standards]({{“/files/standards/sb-frs/SB-FRS_Preface_2018.pdf” | absolute_url }})</td>
     <td>-</td>
   </tr>
   <tr>
